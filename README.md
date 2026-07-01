@@ -10,6 +10,6 @@ O que eu aprendi neste laboratório:
 Passo a passo executado:
 - Desenhei e mapeei o fluxo completo da infraestrutura utilizando a ferramenta Draw.io.
 - Simulei o envio (upload) de um arquivo JSON de Nota Fiscal para o bucket do Amazon S3.
-- Configurei e ativei o endpoint do Webhook para receber as notificações do ecossistema.
+- Configurei e ativei o endpoint do LocalStack para receber as notificações do ecossistema.
 - Testei a requisição de consulta da API utilizando o ID da nota fiscal ("NF-10"), validando o recebimento dos dados estruturados com sucesso (Status 200 OK).
 - Documentei toda a experiência técnica, os insights adquiridos e as evidências de teste em um repositório estruturado no GitHub.
